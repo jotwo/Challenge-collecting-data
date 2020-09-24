@@ -1,0 +1,246 @@
+1600869571575	geckodriver	INFO	Listening on 127.0.0.1:59501
+1600869571582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR0dpL8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600869574084	Marionette	INFO	Listening on port 39209
+1600869574091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600869646332	Marionette	INFO	Stopped listening on port 39209
+1600869780039	geckodriver	INFO	Listening on 127.0.0.1:46517
+1600869780049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGuAz2X"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600869782575	Marionette	INFO	Listening on port 38787
+1600869782661	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1600871059265	Marionette	INFO	Stopped listening on port 38787
+1600938690001	geckodriver	INFO	Listening on 127.0.0.1:42801
+1600938690729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile63lKtC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600938693702	Marionette	INFO	Listening on port 34141
+1600938693741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://immo.vlan.be/Scripts/lazysizes/lazysizes.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1600938705294	Marionette	INFO	Stopped listening on port 34141
+1600938913269	geckodriver	INFO	Listening on 127.0.0.1:47339
+1600938913275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCmYb3a"
+Error: no DISPLAY environment variable specified
+1600938948500	geckodriver	INFO	Listening on 127.0.0.1:55187
+1600938948504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePukmVK"
+Error: no DISPLAY environment variable specified
+1600938955783	geckodriver	INFO	Listening on 127.0.0.1:51671
+1600938955787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerjGBj1"
+Error: no DISPLAY environment variable specified
+1600938971473	geckodriver	INFO	Listening on 127.0.0.1:47039
+1600938971477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXPxP7Q"
+Error: no DISPLAY environment variable specified
+1600939022093	geckodriver	INFO	Listening on 127.0.0.1:44495
+1600939022097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletdd8XA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939024558	Marionette	INFO	Listening on port 46847
+1600939024629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600939024679	Marionette	INFO	Stopped listening on port 46847
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.warn: services.settings: main/messaging-experiments sync interrupted by shutdown
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: callAddonListeners :: line 1580\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine amazon@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine qwant@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 198: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1600939070518	geckodriver	INFO	Listening on 127.0.0.1:43773
+1600939070523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefvxBcF"
+Error: no DISPLAY environment variable specified
+1600939097146	geckodriver	INFO	Listening on 127.0.0.1:55459
+1600939097150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecEFqsl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939099823	Marionette	INFO	Listening on port 34535
+1600939099857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600939099900	Marionette	INFO	Stopped listening on port 34535
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine amazon@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine qwant@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 198: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1600939160781	geckodriver	INFO	Listening on 127.0.0.1:54061
+1600939160785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE4rqDd"
+Error: no DISPLAY environment variable specified
+1600939375658	geckodriver	INFO	Listening on 127.0.0.1:40153
+1600939375664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOPVkBa"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939378041	Marionette	INFO	Listening on port 36233
+1600939378143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600939404018	geckodriver	INFO	Listening on 127.0.0.1:53777
+1600939404024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5jV80E"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939406532	Marionette	INFO	Listening on port 33265
+1600939406631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600939614825	geckodriver	INFO	Listening on 127.0.0.1:48847
+1600939614829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevyeRb9"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939617272	Marionette	INFO	Listening on port 35345
+1600939617343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600939751893	geckodriver	INFO	Listening on 127.0.0.1:42079
+1600939751898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZSHSTi"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939754348	Marionette	INFO	Listening on port 46141
+1600939754405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600939821992	geckodriver	INFO	Listening on 127.0.0.1:40657
+1600939821997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4LqI25"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939824341	Marionette	INFO	Listening on port 43215
+1600939824404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600939831311	geckodriver	INFO	Listening on 127.0.0.1:40479
+1600939831315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefp4gbM"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939833763	Marionette	INFO	Listening on port 35221
+1600939833826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600939875606	geckodriver	INFO	Listening on 127.0.0.1:33733
+1600939875611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQIqQGR"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939878088	Marionette	INFO	Listening on port 42025
+1600939878119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 1078 > eval, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 1078 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 1078 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600939893756	geckodriver	INFO	Listening on 127.0.0.1:45189
+1600939893760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6JnGLq"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939896034	Marionette	INFO	Listening on port 43079
+1600939896066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600939898594	Marionette	INFO	Stopped listening on port 43079
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1600939921229	geckodriver	INFO	Listening on 127.0.0.1:36729
+1600939921233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletlDEtM"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939923711	Marionette	INFO	Listening on port 34147
+1600939923800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 7379 > eval, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 7379 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 7379 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600939972176	geckodriver	INFO	Listening on 127.0.0.1:45237
+1600939972180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF5MNvp"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939974796	Marionette	INFO	Listening on port 39255
+1600939974893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600939981196	Marionette	INFO	Stopped listening on port 39255
+1600939992047	geckodriver	INFO	Listening on 127.0.0.1:39459
+1600939992051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA39ok8"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600939994430	Marionette	INFO	Listening on port 35901
+1600939994464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600940005018	Marionette	INFO	Stopped listening on port 35901
+1600940022801	geckodriver	INFO	Listening on 127.0.0.1:53987
+1600940022806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileda4Nfd"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600940025158	Marionette	INFO	Listening on port 34013
+1600940025224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600940030437	Marionette	INFO	Stopped listening on port 34013
+1600940114791	geckodriver	INFO	Listening on 127.0.0.1:58855
+1600940114795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile946Mmc"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600940117323	Marionette	INFO	Listening on port 38991
+1600940117401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600940130050	Marionette	INFO	Stopped listening on port 38991
+1600940321694	geckodriver	INFO	Listening on 127.0.0.1:39585
+1600940321698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNGxhvx"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600940324091	Marionette	INFO	Listening on port 45495
+1600940324179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600940326726	Marionette	INFO	Stopped listening on port 45495
+1600942208468	geckodriver	INFO	Listening on 127.0.0.1:52793
+1600942209448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0diwq5"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600942212213	Marionette	INFO	Listening on port 41815
+1600942212282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600942219068	Marionette	INFO	Stopped listening on port 41815
+1600942234119	geckodriver	INFO	Listening on 127.0.0.1:44363
+1600942234124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2zqEoa"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600942236384	Marionette	INFO	Listening on port 43597
+1600942236429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600942239554	Marionette	INFO	Stopped listening on port 43597
+JavaScript error: https://delivery.produpress.be/assets/js/immoweb/pdpads.js, line 21: uncaught exception: Error while loading the library
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1600942426771	geckodriver	INFO	Listening on 127.0.0.1:35719
+1600942426775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSEqmH6"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600942429001	Marionette	INFO	Listening on port 39867
+1600942429081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600942431139	Marionette	INFO	Stopped listening on port 39867
+1600942519912	geckodriver	INFO	Listening on 127.0.0.1:53803
+1600942519916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNIf9Qa"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600942522238	Marionette	INFO	Listening on port 40039
+1600942522360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600942524493	Marionette	INFO	Stopped listening on port 40039
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1600942541742	geckodriver	INFO	Listening on 127.0.0.1:42979
+1600942541747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile83VeXj"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600942544157	Marionette	INFO	Listening on port 42839
+1600942544280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600942571163	geckodriver	INFO	Listening on 127.0.0.1:47567
+1600942571168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledwQsRm"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600942573622	Marionette	INFO	Listening on port 37771
+1600942573723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600942580191	Marionette	INFO	Stopped listening on port 37771
+1600947394546	geckodriver	INFO	Listening on 127.0.0.1:47999
+1600947395365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewVrwh3"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600947398258	Marionette	INFO	Listening on port 41643
+1600947398300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600947404401	Marionette	INFO	Stopped listening on port 41643
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
